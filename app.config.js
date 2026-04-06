@@ -46,9 +46,7 @@ export default {
       typedRoutes: false
     },
     extra: {
-      eas: {
-        
-      },
+      eas: { projectId: "f1902e85-8c57-4391-bc84-aedd3c139fab" },
       yotoClientId: process.env.YOTO_CLIENT_ID || "NJ4lW4Y3FrBcpR4R6YlkKs30gTxPjvC4",
       yotoRedirectUri: process.env.YOTO_REDIRECT_URI || "https://owainri.github.io/yoto-callback/",
       logLevel: process.env.LOG_LEVEL || "debug"

@@ -94,7 +94,9 @@
       "router": {
         "origin": false
       },
-      "eas": {}
+      "eas": {
+        "projectId": "f1902e85-8c57-4391-bc84-aedd3c139fab"
+      }
     }
   }
 }
