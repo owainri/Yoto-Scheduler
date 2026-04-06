@@ -26,10 +26,10 @@
     <array>
       <dict>
         <key>CFBundleURLName</key>
-        <string>com.gvalliappan.yotoscheduler</string>
+        <string>com.owainri.yotoscheduler</string>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string>com.gvalliappan.yotoscheduler</string>
+          <string>com.owainri.yotoscheduler</string>
         </array>
       </dict>
       <dict>

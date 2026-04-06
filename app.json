@@ -2,13 +2,13 @@
   "expo": {
     "name": "Yoto Scheduler",
     "slug": "yoto-scheduler",
-    "owner": "gandhiv88",
+    "owner": "owainri",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
-    "scheme": "com.gvalliappan.yotoscheduler",
+    "scheme": "com.owainri.yotoscheduler",
     "platforms": [
       "ios",
       "android"
@@ -20,13 +20,13 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.gvalliappan.yotoscheduler",
+      "bundleIdentifier": "com.owainri.yotoscheduler",
       "infoPlist": {
         "CFBundleURLTypes": [
           {
-            "CFBundleURLName": "com.gvalliappan.yotoscheduler",
+            "CFBundleURLName": "com.owainri.yotoscheduler",
             "CFBundleURLSchemes": [
-              "com.gvalliappan.yotoscheduler"
+              "com.owainri.yotoscheduler"
             ]
           }
         ],
@@ -39,7 +39,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.gvalliappan.yotoscheduler",
+      "package": "com.owainri.yotoscheduler",
       "versionCode": 1,
       "compileSdkVersion": 34,
       "targetSdkVersion": 34,
@@ -50,14 +50,14 @@
         "android.permission.INTERNET",
         "android.permission.ACCESS_NETWORK_STATE"
       ],
-      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gvalliappan.yotoscheduler",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.owainri.yotoscheduler",
       "intentFilters": [
         {
           "action": "VIEW",
           "autoVerify": true,
           "data": [
             {
-              "scheme": "com.gvalliappan.yotoscheduler"
+              "scheme": "com.owainri.yotoscheduler"
             }
           ],
           "category": [
