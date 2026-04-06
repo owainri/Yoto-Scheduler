@@ -30,7 +30,10 @@
             ]
           }
         ],
-        "UIBackgroundModes": ["background-fetch", "background-processing"]
+        "UIBackgroundModes": [
+          "background-fetch",
+          "background-processing"
+        ]
       }
     },
     "android": {
@@ -91,9 +94,7 @@
       "router": {
         "origin": false
       },
-      "eas": {
-        "projectId": "7a24c41c-1c8a-4c69-807c-10668ac7aa83"
-      }
+      "eas": {}
     }
   }
 }

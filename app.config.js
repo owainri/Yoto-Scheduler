@@ -13,9 +13,6 @@ export default {
       resizeMode: "contain",
       backgroundColor: "#ffffff"
     },
-    updates: {
-      url: "https://u.expo.dev/7a24c41c-1c8a-4c69-807c-10668ac7aa83"
-    },
     ios: {
       supportsTablet: true,
       bundleIdentifier: "com.owainri.yotoscheduler",
@@ -50,7 +47,7 @@ export default {
     },
     extra: {
       eas: {
-        "projectId": "7a24c41c-1c8a-4c69-807c-10668ac7aa83"
+        
       },
       yotoClientId: process.env.YOTO_CLIENT_ID || "NJ4lW4Y3FrBcpR4R6YlkKs30gTxPjvC4",
       yotoRedirectUri: process.env.YOTO_REDIRECT_URI || "https://owainri.github.io/yoto-callback/",
